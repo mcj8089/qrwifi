@@ -1,6 +1,8 @@
 # WIFI码小程序
 共享WIFI码小程序UNIAPP端源码+JAVA端接口
 
+![image](https://github.com/mcj8089/qrwifi/blob/main/WIFI%E9%A1%B9%E7%9B%AE.png)
+
 # 什么是WiFi码
 
 WiFi码是将WiFi的账号和密码聚合在一个二维码小程序内，通过手机微信扫描二维码就可以直接连上WiFi，不需要寻找WiFi账号，不需要手动输入密码。

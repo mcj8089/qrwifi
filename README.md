@@ -1,5 +1,7 @@
+# 我的微信 data5u
+
 # WIFI码小程序
-共享WIFI码小程序UNIAPP端源码+JAVA端接口
+提供全套共享WIFI码小程序UNIAPP端源码+JAVA端接口
 
 ![image](https://github.com/mcj8089/qrwifi/blob/main/wifi.png)
 
@@ -18,3 +20,5 @@ WiFi二维码推广，是将商家店内的WiFi二维码免费升级为二维码
 顾客进店扫码WiFi获得收益0.1—2.0元的收益。一天推广10家，1个月就是300家店，每家店每天10人扫码，每次0.2元，每天收益600元，一个月18000元。只要店铺不换WiFi、有人扫你码连WiFi、就会有收益，而且是长久收益，这是一次贴码，永久收益。
 
 # 我的微信 data5u
+
+![image](https://github.com/mcj8089/qrwifi/blob/main/qr.png)
